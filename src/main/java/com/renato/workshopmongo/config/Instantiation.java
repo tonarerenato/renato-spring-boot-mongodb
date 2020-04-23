@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import com.renato.workshopmongo.domain.Post;
 import com.renato.workshopmongo.domain.User;
 import com.renato.workshopmongo.dto.AuthorDTO;
+import com.renato.workshopmongo.dto.CommentDTO;
 import com.renato.workshopmongo.repository.PostRepository;
 import com.renato.workshopmongo.repository.UserRepository;
 
